@@ -1,4 +1,4 @@
-.coolTitle {
+#userinput {
 	text-align: center;
 	font-family: 'Oswald', Helvetica, sans-serif;
 	font-size: 40px;
@@ -20,4 +20,8 @@
 
 .done {
 	text-decoration: line-through;
+}
+
+li:hover {
+	cursor: pointer;
 }
